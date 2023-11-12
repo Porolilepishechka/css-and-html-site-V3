@@ -224,6 +224,7 @@ body, html{
 .card {
     display: flex;
     background-image: url(https://soprano.in.ua/storage/seourprojectitem/615eed3fd56201633611071_612x420_1.jpg);
+    background-size: cover;
     width: 450px;
     height: 450px;
     border-radius: 20px;
